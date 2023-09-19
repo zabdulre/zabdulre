@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Zaid Abdulrehman
 - 👀 I’m interested in developing secure, quality code!
-- 🌱 I’m currently learning AI programming and Computer/Network Security.
 - 💞️ I’m looking to collaborate on projects related to social good!
-- 📫 Please reach out to me on linkedin at https://www.linkedin.com/in/zaid-abdulrehman-2a6980187/ .
 
 Thanks for stopping by.
 
